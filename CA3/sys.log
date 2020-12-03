@@ -1,0 +1,26 @@
+12/03/2020 12:14:45 PM Starting new HTTP connection (1): newsapi.org:80
+12/03/2020 12:14:46 PM http://newsapi.org:80 "GET /v2/everything?q=COVID-19&from=2020-12-02&sortBy=publishedAt&apiKey=898be6b28f7e491f8957f84757d6f50f HTTP/1.1" 200 None
+12/03/2020 12:14:46 PM Starting new HTTP connection (1): api.openweathermap.org:80
+12/03/2020 12:14:46 PM http://api.openweathermap.org:80 "GET /data/2.5/weather?q=Exeter&appid=1087bbad2250cccb333e0fa525221f78 HTTP/1.1" 200 461
+12/03/2020 12:14:46 PM Starting new HTTP connection (1): newsapi.org:80
+12/03/2020 12:14:46 PM http://newsapi.org:80 "GET /v2/everything?q=COVID-19&from=2020-12-02&sortBy=publishedAt&apiKey=898be6b28f7e491f8957f84757d6f50f HTTP/1.1" 200 None
+12/03/2020 12:14:46 PM Adding job tentatively -- it will be properly scheduled when the scheduler starts
+12/03/2020 12:14:46 PM Starting new HTTP connection (1): api.openweathermap.org:80
+12/03/2020 12:14:46 PM http://api.openweathermap.org:80 "GET /data/2.5/weather?q=Exeter&appid=1087bbad2250cccb333e0fa525221f78 HTTP/1.1" 200 461
+12/03/2020 12:14:46 PM Starting new HTTP connection (1): newsapi.org:80
+12/03/2020 12:14:46 PM http://newsapi.org:80 "GET /v2/everything?q=COVID-19&from=2020-12-02&sortBy=publishedAt&apiKey=898be6b28f7e491f8957f84757d6f50f HTTP/1.1" 200 None
+12/03/2020 12:14:46 PM Starting new HTTP connection (1): api.openweathermap.org:80
+12/03/2020 12:14:46 PM http://api.openweathermap.org:80 "GET /data/2.5/weather?q=Exeter&appid=1087bbad2250cccb333e0fa525221f78 HTTP/1.1" 200 461
+12/03/2020 12:14:46 PM Starting new HTTP connection (1): newsapi.org:80
+12/03/2020 12:14:46 PM http://newsapi.org:80 "GET /v2/everything?q=COVID-19&from=2020-12-02&sortBy=publishedAt&apiKey=898be6b28f7e491f8957f84757d6f50f HTTP/1.1" 200 None
+12/03/2020 12:14:46 PM Adding job tentatively -- it will be properly scheduled when the scheduler starts
+12/03/2020 12:14:46 PM Adding job tentatively -- it will be properly scheduled when the scheduler starts
+12/03/2020 12:14:46 PM Added job "trigger_alarm" to job store "default"
+12/03/2020 12:14:46 PM Added job "schedule_notification" to job store "default"
+12/03/2020 12:14:46 PM Added job "test_program" to job store "default"
+12/03/2020 12:14:46 PM Scheduler started
+12/03/2020 12:14:46 PM Looking for jobs to run
+12/03/2020 12:14:46 PM Next wakeup is due at 2020-12-03 12:15:46.848802+00:00 (in 59.995157 seconds)
+12/03/2020 12:14:46 PM ALL TESTS PASSED
+12/03/2020 12:14:46 PM  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+12/03/2020 12:14:48 PM 127.0.0.1 - - [03/Dec/2020 12:14:48] "[37mGET / HTTP/1.1[0m" 200 -
