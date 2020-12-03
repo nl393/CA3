@@ -1,5 +1,8 @@
 ### CA3 - Nicholas Latham
 
+## Github
+	https://github.com/nl393/CA3
+
 ## Deploying the program
 	Run main.py
 
@@ -41,7 +44,7 @@
 	import requests -------> pip install requests
 
 ## Testing the program
-	To test the program's functions, run tests.py, if all tests pass main.py will be run
+	To test the program's functions, run unittests.py, if all tests pass main.py will be run
 	The tests are designed to measure whether or not the end of the function is reached, if the end of the function is reached without error, it is considered a success
 	If one or more tests fail, the program will not execute main.py
 	These tests are run routinely at midnight every day
